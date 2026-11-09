@@ -1,4 +1,4 @@
-# Hi, I'm Lukáš Fiala 👋
+# Hi, I'm Lukáš Fiala
 
 ### Senior Java Software Developer | Backend Development | Software Architecture
 
